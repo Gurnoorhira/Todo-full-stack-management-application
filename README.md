@@ -1,6 +1,1 @@
-# TodoFinal
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
-
-All code files are added to project, including frontend, backend,database etc.
-
+Technologies: Angular as the frontend framework, BootStrap, HTML, and CSS for frontend styling, Spring Boot to build RESTFUL API and Micro-services, Java for backend development, Spring for dependencies management, Spring Security for authentication and authorization, Node(npm), Visual Studio Code as the IDE and Tomcat Embedded Web Server to bridge the web server with the Java application.
